@@ -1,5 +1,5 @@
 # Primeros pasos
-==============
+
 
 1. Nuestros primeros pasos han sido limpiar el interior del televisor ya que le hacia falta, esto lo hemos realizado con un pincel (al aire comprimido seria mejor opción pero no quería llenar todo de polvo), alcohol isopropilico, limpia cristales y papel 
 

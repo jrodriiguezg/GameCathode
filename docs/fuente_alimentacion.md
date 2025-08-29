@@ -1,5 +1,5 @@
 # Fuente de alimentación
-======================
+
 El siguiente gran desafío fue encontrar sitio para la fuente de alimentación (PSU). Aunque la tele es grande, no había espacio suficiente para alojar una fuente de PC completa en su interior.
 
 - **El problema:** La fuente de alimentación no cabía dentro de la carcasa.
@@ -21,7 +21,7 @@ La siguiente imagen muestra la fuente ya montada en su ubicación final y el agu
 :alt: Agujero de los cables
 ```
 
-### Crisis del cable de 24 pines
+### Problemas con el cable de 24 pines
 
 ***Pero cuando todo parecía ir bien...*** surgió un nuevo problema: el conector de 24 pines de la fuente era demasiado corto y no llegaba a la placa base.
 
