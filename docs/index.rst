@@ -27,7 +27,7 @@ información en Internet.
 **¿Por que GameCathode?**
    El nombre mezcla las dos cosas en las que se basa el proyecto **Game** por los juegos y **Cathode** 
    por la teconologia que usan las teles de la epoca
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: Contenidos:
@@ -35,4 +35,8 @@ información en Internet.
    primero_pasos.md
    entrada_video.md
    fuente_alimentacion.md
-   proyecto.md
+   sistema_de_sonido_y_ventilacion.md
+   retoques.md 
+   software.md 
+   
+
