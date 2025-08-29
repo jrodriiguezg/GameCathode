@@ -1,8 +1,8 @@
-Bienvenido a la documentación de AIO Retro Emu
-==============================================
+# Bienvenido a la documentación de GameCathode
 
 Este proyecto nació con la idea de revivir televisores antiguos de tubo,
-transformándolos en un centro de emulación retro usando hardware de PC reciclado.
+transformándolos en un centro de emulación retro usando hardware de
+PC reciclado.
 
 .. toctree::
    :maxdepth: 2
