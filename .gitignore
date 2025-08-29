@@ -1,0 +1,5 @@
+# Ignorar carpetas de Sphinx
+docs/_build/
+docs/Makefile
+docs/make.bat
+docs/chuleta.txt
