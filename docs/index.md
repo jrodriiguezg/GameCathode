@@ -6,7 +6,9 @@ transformándolos en un centro de emulación retro usando hardware de PC recicla
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenido:
+   :caption: Contenidos:
 
+   entrada_video.md
+   fuente_alimentacion.md
    primero_pasos.md
    proyecto.md
