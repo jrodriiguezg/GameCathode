@@ -1,63 +1,51 @@
-# Herramientas y materiales usados
+# El Arsenal del Taller: Herramientas y Materiales
 
-Aqui voy a descibir los materiales y las herramientas que hemos usado en el proyecto asi como enlaces de compra
+Todo buen "maker" sabe que detrás de cada proyecto hay un arsenal de herramientas y un puñado de materiales clave. Aquí desglosamos todo lo que usamos para dar vida al GameCathode, desde los componentes electrónicos hasta los consumibles que nos sacaron de más de un apuro.
 
-## Materiales
+## Materiales del Taller
 
-- **Cinta aislante** , has visto que la usamos para casi todo ya que es barata y nos permite sujetar cosas con facilidad, yo compro el siguiente pack que me incluye cintas de varios colores [Link al producto](https://amzn.to/4n7i74Y)
+Estos son los consumibles y componentes básicos que formaron la columna vertebral del montaje.
 
-- **Alchol isopropílico**, este fue usado en la limpieza del interior de la tele, ya que no reacciona con los componentes electronicos ni deja rastro, yo tengo una garrafa de 5L y voy rellenando un bote de 1L segun se me va gastando [Link al producto](https://amzn.to/4mIcNW5)
+- **Cinta Aislante:** Nuestra navaja suiza para la sujeción. La usamos para casi todo: organizar cables, fijaciones provisionales... Un clásico indispensable. Este [pack multicolor](https://amzn.to/4n7i74Y) siempre viene bien.
+- **Alcohol Isopropílico:** El elixir de la limpieza para la electrónica. Fundamental para dejar el interior del televisor como nuevo sin dañar ningún componente. Comprar una [garrafa grande](https://amzn.to/4mIcNW5) y rellenar un bote pequeño es la mejor estrategia.
+- **Pasta Térmica:** Aunque fue un pequeño retoque, cambiar la pasta térmica es crucial para la longevidad del procesador. Siempre usamos una que ofrezca buena calidad-precio como [esta](https://amzn.to/3USUi4U).
+- **Tubos Termorretráctiles:** La solución profesional para alargar los cables de la fuente de alimentación. Un [kit variado](https://amzn.to/3VoK8ZU) es oro puro en cualquier taller de electrónica.
+- **Cinta de Doble Cara:** Para esas fijaciones que necesitan ser fuertes desde el primer momento. La usamos para el montaje inicial de la fuente. ¡Ojo, que [pega de verdad](https://amzn.to/41u1tnZ)!
+- **Amplificador PAM8403:** El pequeño gigante que dio voz al proyecto. Comprado en [AliExpress](https://es.aliexpress.com/item/1005006012531320.html) a un precio de risa, es perfecto para añadir sonido estéreo a cualquier invento.
+- **Pegamento Instantáneo:** Para volver a colocar el altavoz en su sitio, un buen [super glue](https://amzn.to/3I1Mg6V) es la solución. Aunque nuestra preferencia suele ser [Supergen](https://amzn.to/3JG8yf1) por su resistencia.
+- **Estaño y Flux:** No hay soldadura sin ellos. Recomendamos usar [estaño con plomo](https://amzn.to/4p1bD9D) (con precaución) por lo fácil que es trabajar con él, y [flux en pasta](https://amzn.to/45HoiHi) para uniones limpias y duraderas.
+- **Velcro para Cables:** El toque final para una gestión de cables decente. Aunque no se vea en todas las fotos, este [velcro](https://amzn.to/3UT4z12) nos ayudó a organizar todo.
+- **Papel de Cocina:** El héroe anónimo de la fase de limpieza. No necesita enlace, ¡la tienda de tu barrio es tu mejor proveedor!
 
-- **Papel de cocina**, usado para la limpieza en mi caso lo compro en el supermercado, por eso no pongo enlace ya que podeis encontrar a buen precio en cualquier tienda de barrio 
+## Herramientas Clave
 
-- **Pasta termica**, aunque se uso poca la agrego como recomendacion, yo siempre uso esta es buena barata y va bien [Link al producto](https://amzn.to/3USUi4U)
+Estas son las herramientas que hicieron el trabajo pesado y nos permitieron adaptar, cortar y conectar.
 
-- **Termorretractil**, usado cuando tuvimos que extender el cable de la fuente de alimentacion, y yo creo que es una de las cosas que mas uso en mi taller, en mi caso compro cajas como las del enlace que me incluyen de todas las formas ya que el color no suele importarme [Link al prodcuto](https://amzn.to/3VoK8ZU)
+- **Dremel (o similar):** La estrella del proyecto. Sin ella, habría sido imposible hacer los cortes en la carcasa para la placa base y los conectores. Una [herramienta multiusos](https://amzn.to/4n6cmEL) es una de las mejores inversiones para un taller.
+- **Adaptador SCART a AV:** El traductor que conectó dos épocas. Lo encontramos en una tienda local por la urgencia, pero es idéntico a [este de Amazon](https://amzn.to/41u5kRS). Su capacidad para ser entrada o salida lo hace muy versátil.
+- **Soldador:** El corazón de cualquier trabajo de electrónica. Un buen soldador como el [JBC](https://amzn.to/4lSGN07) es una herramienta para toda la vida.
+- **Pinceles y Brochas:** Para quitar el polvo de décadas acumulado en el interior del televisor. Un [juego económico](https://amzn.to/45Fd464) es más que suficiente.
 
-- **Cinta de doble cara**, yo la compro directamente en la tienda de bricolaje de mi ciudad pero estoy viendo que en amazon es mas barata, usarla con cuidado que pega fuerte [Link al producto](https://amzn.to/41u1tnZ)
+## El Corazón del Sistema: Componentes de PC
 
-- **Amplificador PAM8403**, este fue comprado en aliexpres, por que 10 unidades me salieron a 2 euros y para proyectos esta bien tenerlos [Link al producto](https://es.aliexpress.com/item/1005006012531320.html?spm=a2g0o.productlist.main.3.1d253525vLpV8I&algo_pvid=2435cee0-0af3-4374-936c-29a7f4b0727f&algo_exp_id=2435cee0-0af3-4374-936c-29a7f4b0727f-2&pdp_ext_f=%7B%22order%22%3A%22484%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21EUR%215.39%210.99%21%21%2143.69%218.00%21%40210391a017565829109768946edf08%2112000035329868684%21sea%21ES%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa90a8680%3Bm03_new_user%3A-29895%3BpisId%3A5000000174047507&curPageLogUid=QI1yTYA78EnF&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006012531320%7C_p_origin_prod%3A)
+Todos los componentes del PC fueron piezas recicladas que teníamos por el taller, demostrando que no hace falta lo último para crear algo increíble.
 
-- **Pegamento**, usado para volver a pegar el altavoz a la tele, yo diria que cualquier super glue serviria, yo use el siguiente que es el que tenia a mano, normalmente uso supergen pero no me quedaba [Link al producto](https://amzn.to/3I1Mg6V) | [Supergen](https://amzn.to/3JG8yf1)
+- **CPU:** Intel Core i7-950. Un veterano que todavía tiene mucho que decir. [Más info en Wikipedia](https://es.wikipedia.org/wiki/Intel_Core_i7_(Nehalem)).
+- **Placa Base:** Asus P6T. La espina dorsal que une todo. [Soporte de Asus](https://www.asus.com/es/supportonly/p6t/helpdesk_knowledge/).
+- **RAM:** 8 GB de RAM DDR3. Suficiente para mover el sistema y los emuladores con soltura. [Un módulo similar](https://amzn.to/41shivs).
+- **Tarjeta Gráfica:** Nvidia GeForce 7300 GT (256MB). La clave del proyecto gracias a su salida de vídeo compuesto (AV). [Detalles técnicos](https://technical.city/es/video/GeForce-7300-GT).
+- **Almacenamiento:** Un disco duro Seagate de 500 GB y 2.5". Un [viejo conocido](https://amzn.to/4fX97No) que teníamos guardado para una ocasión como esta.
+- **Fuente de Alimentación y WiFi:** Usamos una fuente genérica y una tarjeta WiFi D-Link antigua. Para quien busque alternativas, aquí hay una [fuente económica](https://amzn.to/3VoYKIL) y una [tarjeta WiFi actual](https://amzn.to/47fi42u).
 
-- **Estaño y flux**, dos basicos para soldar, aqui voy a recomendar usar siempre estaño con plomo aunque es mas caro (y algo mas toxico)se suelda mil veces mejor con el y para el flux yo siempre intento usar en pasta y lo aplico usando una espatula o un algodon [Estaño](https://amzn.to/4p1bD9D) | [Flux](https://amzn.to/45HoiHi)
+## Una Ruta Alternativa: La Vía Raspberry Pi
 
-- **Belcro para cables**, esto se uso en la organizacion de los cables aunque no se vea en las imagenes, lo compre para el taller y al final nos vino de maravilla para el proyecto [Link al producto](https://amzn.to/3UT4z12)
+Si tuviéramos que empezar de cero o quisiéramos una solución más compacta, sin duda exploraríamos esta vía.
 
-## Herramientas
-
-- **Dremel**, ya veis que se ha usado para mucho en el proyecto, es una herramienta que recomiendo un monton tener por que te salva de mil cosas por lo versatil que es, luego las puntas de recambio podeis comprar las genericas, yo tengo un kit de Parkside (Lidl) [Link al producto](https://amzn.to/4n6cmEL)
-
-- **Adaptador Scart a AV**, en mi caso lo compramos en el chino por que nos urgia, pero nos costo lo mismo que el que os pongo en amazon y es el mismo para variar, esta muy bien por que permite usarlo tanto como para hacer entrada como salida de video [Link al producto](https://amzn.to/41u5kRS)
-
-
-- **Soldador**, este es un esencial en todo proyecto de electronica, recomiendo el siguiente de jbc por que llevo con el varios años y nunca me ha dado problemas [Link al producto](https://amzn.to/4lSGN07)
-
-- **Pincel**, los compre en una tienda de pinturas, pero por el precio que pague yo por un pincel me doy cuenta que podria haber comprado 3 [Link al producto](https://amzn.to/45Fd464)
-
-## Componentes PC
-
-Todos los componentes han sido piezas recicladas que tenia por el taller, pero listo sus caracteristicas asi como un enlace de compra / informacion del mismo 
-
-- **Intel Core i7-950** [Wikipedia](https://es.wikipedia.org/wiki/Intel_Core_i7_(Nehalem))
-- **8Gb ram DDR3**, no se que marca es el modulo usado, [Link al producto](https://amzn.to/41shivs)
-- **Nvidia GeForce 7300GT 256MB** [Technical City](https://technical.city/es/video/GeForce-7300-GT)
-- **Seagate 500GB HDD 2.5**, el disco duro lo tenia por el taller pero es este para ser exactos [Link al producto](https://amzn.to/4fX97No)
-- **Fuente de alimentacion y tarjeta de red**, la tarjeta de red es una Dlink wifi 4 bastante vieja pero es lo que teniamos, y al fuente de alimentacion es una que tenia por el taller de las OEM que llevan los equipos premontados, pongo enlace a dos alternativas a las que hemos usado [Fuente de alimentacion](https://amzn.to/3VoYKIL) | [Tarjeta de red](https://amzn.to/47fi42u)
-- **Placa Base Asus P6T** [Asus](https://www.asus.com/es/supportonly/p6t/helpdesk_knowledge/)
-
-
-## Recomendacion 
-Recomiendo usar una raspberry pi y un hat con salida analogica como el RGBberry aunque hay otras opciones y modelos 
-[Raspberry Pi 4B](https://amzn.to/4n6wV3M) + [RGBerry](https://www.osaelectronics.com/product/rgberry-scart/)
-
-Con esta conbinacion no solo te ahorras los problemas que hemos tenido si no que puedes instalar un sistema como recalbox con todo listo para usar 
+Usar una [Raspberry Pi 4B](https://amzn.to/4n6wV3M) junto a un "hat" con salida de vídeo analógica como el [RGBerry](https://www.osaelectronics.com/product/rgberry-scart/) simplificaría enormemente el proyecto. Te ahorras los desafíos de espacio, alimentación y ventilación que tuvimos, y puedes instalar sistemas como Recalbox o RetroPie de forma casi automática.
 
 ## Software y programas usados 
 
 **Proximamente ...**
-
-
 
 ---
 **Divulgación de Afiliados:** Algunos de los enlaces en esta página son enlaces de afiliados de Amazon. Como Asociado de Amazon, gano una comisión por compras que califican. Esto no tiene ningún costo adicional para ti y ayuda a seguir haciendo proyectos. ¡Gracias por tu apoyo!
