@@ -36,6 +36,8 @@ Para conseguir un sonido estéreo, distribuimos los altavoces de forma ingeniosa
 -   **Altavoz original:** Lo reinstalamos en su ubicación original. Como se ve en la imagen, lo pegamos y lo sujetamos temporalmente con cinta. 
 -   **Nuevo altavoz:** Encontramos un hueco perfecto en la parte superior de la carcasa.
 
+(Al final ambos altavoces fueron pegados con pegamento en sus nuevas ubicaciones)
+
 ```{image} /_static/img/23.jpeg
 :width: 400px
 :align: center
