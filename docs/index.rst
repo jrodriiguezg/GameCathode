@@ -1,6 +1,7 @@
 Bienvenido a la documentación de la creación de GameCathode
 =============================================
 `Read me in English <https://gamecathode.readthedocs.io/es/docs-english/>`_
+
 Este proyecto nació con la idea de revivir televisores antiguos de tubo,
 transformándolos en un centro de emulación retro.
 
