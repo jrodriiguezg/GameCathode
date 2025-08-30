@@ -37,7 +37,8 @@ información en Internet.
    entrada_video.md
    fuente_alimentacion.md
    sistema_de_sonido_y_ventilacion.md
+   extras_y_materiales_usados.md
    retoques.md 
    software.md 
-   extras_y_materiales_usados.md
+
 
