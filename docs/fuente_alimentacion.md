@@ -1,76 +1,82 @@
-# El Corazón Eléctrico: Domando la Fuente de Alimentación
+# The Electrical Heart: Taming the Power Supply
 
-Con la placa y el vídeo resueltos, llegó el momento de dar energía a la bestia. El siguiente gran desafío fue encontrar un hogar para la fuente de alimentación (PSU). Aunque la tele es grande, el interior estaba ya lleno de cosas
+With the board and video sorted out, it was time to give power to the beast. The next big challenge was finding a home for the power supply unit (PSU). Although the TV is large, the interior was already full of things.
 
-## Un Hogar Inesperado: Pensando "Fuera de la Caja"
+## An Unexpected Home: Thinking "Outside the Box"
 
--   **El problema:** La fuente de alimentación ATX era un gigante que no cabía en el delicado ecosistema interior.
--   **La solución:** ¡Pensar "fuera de la caja", literalmente! Decidimos montarla en el exterior, aprovechando el espacio libre en la parte trasera.
--   **El portal:** Para conectar la fuente a la placa base, abrimos un nuevo portal en la carcasa para pasar todo el cableado.
--   **Sujeción inicial:** Recurrimos a la siempre fiable cinta de doble cara para una fijación provisional. ¡Un clásico!
+  - **The problem:** The ATX power supply was a giant that wouldn't fit into the delicate interior ecosystem.
+  - **The solution:** "Thinking outside the box," literally\! We decided to mount it on the outside, using the free space on the back.
+  - **The portal:** To connect the power supply to the motherboard, we opened a new portal in the case to pass all the wiring through.
+  - **Initial fastening:** We used the ever-reliable double-sided tape for a temporary fix. A classic\!
+
+<!-- end list -->
 
 ```{image} /_static/img/10.png
 :width: 400px
 :align: center
-:alt: Fuente de alimentación montada en la parte trasera exterior del televisor
+:alt: Power supply mounted on the outer back of the TV
 ```
 
 ```{image} /_static/img/11.png
 :width: 400px
 :align: center
-:alt: Agujero de los cables
+:alt: Hole for the cables
 ```
 
-### Problemas con el cable de 24 pines
+### Problems with the 24-pin cable
 
-***Pero cuando todo parecía ir bien...*** surgió un nuevo problema: el conector de 24 pines de la fuente era demasiado corto y no llegaba a la placa base.
+***But just when everything seemed to be going well...*** a new problem arose: the 24-pin connector on the power supply was too short and couldn't reach the motherboard.
 
 ```{image} /_static/img/12.png
 :width: 400px
 :align: center
-:alt: Cable de 24 pines
+:alt: 24-pin cable
 ```
 
-Por suerte, no hay nada que un soldador y unos tubos termoretráctiles no puedan arreglar. Con mucha paciencia, cortamos cada uno de los 24 cables y los alargamos empalmando un nuevo tramo.
+Luckily, there's nothing a soldering iron and some heat-shrink tubes can't fix. With a lot of patience, we cut each of the 24 wires and extended them by splicing in a new section.
 
 ```{image} /_static/img/15.png
 :width: 400px
 :align: center
-:alt: Alargado de los cables 
+:alt: Cables extended
 ```
 
-### Montaje provisional y gestión de cables
+### Temporary mounting and cable management
 
-Con los cables ya alargados, pudimos continuar con el montaje.
+With the cables now extended, we were able to continue with the assembly.
 
-- **Fuente de alimentación:** La sujetamos de manera "clandestina" y provisional con cinta aislante.
+  - **Power supply:** We attached it "clandestinely" and temporarily with electrical tape.
+
+<!-- end list -->
 
 ```{image} /_static/img/16.png
 :width: 400px
 :align: center
-:alt: Montaje provisional de la fuente
+:alt: Temporary mounting of the power supply
 ```
 
-- **Disco duro y cables:** En la siguiente imagen se ve la ubicación temporal del disco duro (azul) y la ruta de los cables de la fuente hacia el interior (naranja).
+  - **Hard drive and cables:** The next image shows the temporary location of the hard drive (blue) and the route of the power supply cables to the inside (orange).
+
+<!-- end list -->
 
 ```{image} /_static/img/17.png
 :width: 400px
 :align: center
-:alt: Ubicación provisional del HDD y ruta de cables
+:alt: Temporary HDD location and cable route
 ```
 
-Aquí se aprecia el interior del televisor con la placa ya instalada y cómo los cables de la fuente (naranja) entran a través del recorte que hicimos.
+Here you can see the inside of the TV with the board already installed and how the power supply cables (orange) enter through the cutout we made.
 
 ```{image} /_static/img/18.png
 :width: 400px
 :align: center
-:alt: Interior con cables de la fuente
+:alt: Interior with power supply cables
 ```
 
-Finalmente, el disco duro en su sitio (amarillo). Y sí, como se puede ver, **nos quedamos sin bridas** y tuvimos que improvisar  con un cable (morado). 
+Finally, the hard drive in its place (yellow). And yes, as you can see, **we ran out of cable ties** and had to improvise with a cable (purple).
 
 ```{image} /_static/img/20.png
 :width: 400px
 :align: center
-:alt: Montaje final del HDD con sujeción improvisada
+:alt: Final HDD mounting with improvised fastening
 ```
