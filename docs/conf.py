@@ -23,7 +23,7 @@ extensions = [
 templates_path = ["_templates"]
 exclude_patterns = []
 
-language = "es"
+language = "en"
 
 # -- Options for HTML output -------------------------------------------------
 
