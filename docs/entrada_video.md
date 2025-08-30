@@ -1,48 +1,54 @@
-# La Primera Chispa: Llevando la Señal de Vídeo al CRT
+# The First Spark: Bringing the Video Signal to the CRT
 
-Con la placa base ya instalada, nos enfrentamos a uno de los mayores retos del proyecto: ¿cómo conectar un PC moderno a un televisor de los 90? Era un auténtico choque de generaciones tecnológicas.
+With the motherboard now installed, we faced one of the biggest challenges of the project: how to connect a modern PC to a 90s television? It was a true clash of technological generations.
 
-## El Puente Entre Dos Mundos: El Adaptador
+## The Bridge Between Two Worlds: The Adapter
 
-El problema era claro:
--   **El PC:** Ofrecía una salida de vídeo compuesto (AV).
--   **El Televisor:** Solo tenía una entrada **SCART (Euroconector)**.
+The problem was clear:
 
-La solución fue un adaptador que hiciera de traductor entre ambos mundos: un conversor de SCART a AV (RCA). Este pequeño dispositivo sería la clave para enviar la señal de vídeo desde la tarjeta gráfica directamente al corazón del tubo de rayos catódicos.
+  - **The PC:** Offered a composite video output (AV).
+  - **The Television:** Only had a **SCART (Euroconnector)** input.
+
+The solution was an adapter that would act as a translator between both worlds: a SCART to AV (RCA) converter. This small device would be the key to sending the video signal directly from the graphics card to the heart of the cathode-ray tube.
 
 ```{image} /_static/img/7.png
 :width: 400px
 :align: center
-:alt: Adaptador SCART a RCA (AV) para la señal de vídeo
+:alt: SCART to RCA (AV) adapter for the video signal
 ```
 
-### Ajustes en la carcasa
+### Adjustments to the case
 
-Como era de esperar, los conectores modernos no encajaban en los huecos antiguos. Tuvimos que hacer un par de modificaciones:
+As expected, the modern connectors did not fit into the old slots. We had to make a couple of modifications:
 
-1.  **Salida de la tarjeta gráfica:** La ranura original era demasiado pequeña para el conector de vídeo, así que tuvimos que **agrandarla**.
+1.  **Graphics card output:** The original slot was too small for the video connector, so we had to **enlarge it**.
+
+<!-- end list -->
 
 ```{image} /_static/img/33.jpeg
 :width: 400px
 :align: center
-:alt: nuevo agujero 
+:alt: new hole
 ```
 
-2.  **Puerto SCART:** El propio adaptador SCART era demasiado voluminoso y tampoco entraba en el hueco, por lo que también **tuvimos que ampliarlo**.
+2.  **SCART port:** The SCART adapter itself was too bulky and also didn't fit into the slot, so we also had to **enlarge it**.
+
+<!-- end list -->
 
 ```{image} /_static/img/27.jpeg
 :width: 400px
 :align: center
-:alt: nuevo agujero scart
+:alt: new scart hole
 ```
 
-### ¡Tenemos señal!
+### We have a signal\!
 
-Tras los ajustes, llegó el momento de la verdad: la primera prueba de vídeo. **El resultado fue un éxito**. La pantalla mostro el arranque de Recalbox, la primera señal de que el proyecto iba por buen camino.
+After the adjustments, the moment of truth arrived: the first video test. **The result was a success**. The screen showed the Recalbox boot sequence, the first sign that the project was on the right track.
 
-*(Nota: En la foto, la placa está fuera porque aprovechamos para cambiarle la pasta térmica).*
+*(Note: In the photo, the board is outside because we took the opportunity to change its thermal paste).*
 
 ```{image} /_static/img/9.png
 :width: 400px
 :align: center
-:alt: Señal correcta
+:alt: Correct signal
+```
