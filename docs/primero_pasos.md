@@ -1,50 +1,56 @@
-# El Despertar del Gigante: Primeros Pasos y Cirugía Mayor
+# The Giant's Awakening: First Steps and Major Surgery
 
-Todo gran proyecto comienza con un primer paso. En nuestro caso, fue abrir el televisor y enfrentarnos a la realidad: un interior lleno de polvo y un espacio más limitado de lo que parecía.
+Every great project begins with a first step. In our case, it was opening the TV and confronting the reality: an interior full of dust and a more limited space than it seemed.
 
-## Preparando el Lienzo: Limpieza a Fondo
+## Preparing the Canvas: A Thorough Cleaning
 
-Antes de cualquier cirugía, hay que esterilizar. Armados con pinceles, alcohol isopropílico y paciencia, le dimos al televisor una limpieza profunda, devolviéndole la dignidad y preparándolo para su nueva vida.
+Before any surgery, you have to sterilize. Armed with brushes, isopropyl alcohol, and patience, we gave the TV a deep cleaning, restoring its dignity and preparing it for its new life.
 
-## El Tetris Definitivo: Encajando la Placa Base
+## The Ultimate Tetris: Fitting the Motherboard
 
-El primer gran reto de ingeniería fue integrar el "cerebro" (la placa base) en el "cuerpo" (la carcasa). A pesar del tamaño del televisor, el enorme tubo de rayos catódicos ocupaba casi todo el espacio.
+The first major engineering challenge was to integrate the "brain" (the motherboard) into the "body" (the case). Despite the size of the TV, the huge cathode-ray tube occupied almost all the space.
 
--   **El Plan:** Colocar la placa en la parte superior, aprovechando las rejillas de ventilación para atornillarla.
--   **El Problema:** La carcasa era curva, impidiendo que la placa se asentara de forma plana.
--   **La Solución Quirúrgica:** ¡Dremel al rescate! Realizamos dos cortes estratégicos en la parte trasera. El primero para que la placa pudiera quedar recta y el segundo para dejar los puertos USB y de red accesibles desde el exterior.
+  - **The Plan:** Place the board on the top, using the ventilation grilles to screw it in.
+  - **The Problem:** The case was curved, preventing the board from sitting flat.
+  - **The Surgical Solution:** Dremel to the rescue\! We made two strategic cuts in the back. The first was so the board could be straight, and the second was to leave the USB and network ports accessible from the outside.
 
-El siguiente esquema ilustra nuestra estrategia de corte.
+The following diagram illustrates our cutting strategy.
 
 ```{image} /_static/img/2.png
 :width: 400px
 :align: center
-:alt: Esquema de los cortes necesarios en la carcasa para la placa base
+:alt: Diagram of the necessary cuts in the case for the motherboard
 ```
-En esta siguiente imagen vemos los recortes realizados en la carcasa del televisor: 
+
+In this next image, we see the cutouts made in the TV case:
 
 ```{image} /_static/img/3.png
 :width: 400px
 :align: center
-:alt: Agujeros realizados a la carcasa
+:alt: Holes made in the case
+```
 
-Con los cortes hechos, procedimos a instalar la placa base. La siguiente imagen muestra el montaje final y algunos detalles importantes:
+With the cuts made, we proceeded to install the motherboard. The following image shows the final assembly and some important details:
 
-- **Puntos de sujeción (círculos negros):**
-  - **Frontal:** Aprovechamos dos agujeros existentes en la carcasa para atornillar la placa.
-  - **Trasero:** Como solución **provisional**, usamos una brida para asegurar la parte posterior.
-- **Conflicto con el puerto PCI (flecha rosa):**
-  - Nos encontramos con un problema: uno de los puertos PCI chocaba directamente con el final del tubo de la TV (marcado en azul).
-  - Para solucionarlo, simplemente usamos el **otro puerto PCI disponible** para instalar la tarjeta gráfica.
+  - **Fastening points (black circles):**
+      - **Front:** We used two existing holes in the case to screw the board down.
+      - **Back:** As a **temporary** solution, we used a cable tie to secure the back part.
+  - **Conflict with the PCI port (pink arrow):**
+      - We ran into a problem: one of the PCI ports collided directly with the end of the TV tube (marked in blue).
+      - To solve it, we simply used the **other available PCI port** to install the graphics card.
+
+<!-- end list -->
 
 ```{image} /_static/img/5.png
 :width: 400px
 :align: center
-:alt: Placa ubicada en la carcasa
+:alt: Board located in the case
+```
 
-La siguiente imagen es similar a la anterior pero con la carcasa tumbada donde se aprecia mejor todo 
+The next image is similar to the previous one but with the case lying down, where everything can be seen better.
 
 ```{image} /_static/img/6.png
 :width: 400px
 :align: center
-:alt: Placa en la carcasa volteada
+:alt: Board in the flipped case
+```
