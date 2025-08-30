@@ -1,6 +1,6 @@
 Welcome to the GameCathode creation documentation.
 =============================================
-[You can read this in Spanish ](https://gamecathode.readthedocs.io/es/latest/)
+`Leeme en Español <https://gamecathode.readthedocs.io/es/latest/>`_
 
 This project was born with the idea of reviving old tube televisions,
 transforming them into a retro emulation center.
