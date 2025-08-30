@@ -1,36 +1,36 @@
-Bienvenido a la documentación de la creación de GameCathode
+Welcome to the GameCathode creation documentation.
 =============================================
 
-Este proyecto nació con la idea de revivir televisores antiguos de tubo,
-transformándolos en un centro de emulación retro.
+This project was born with the idea of reviving old tube televisions,
+transforming them into a retro emulation center.
 
-Una de las primeras opciones fue una **Raspberry Pi 4 de 4GB** + Recalbox, pero
-nos dio problemas a la hora de usar la salida de vídeo AV. Probamos cambiando
-de SO, pero no era todo lo que buscábamos, porque necesitábamos un centro total
-de emulación y la Raspberry Pi nos limitaba al no poder con algunos sistemas
+One of the first options was a **Raspberry Pi 4 4GB** + Recalbox, but
+we had problems when using the AV video output. We tried changing
+the OS, but it wasn't quite what we were looking for, because we needed a complete
+emulation center and the Raspberry Pi limited us by not being able to run some systems
  (**Dolphin**).
 
-La segunda opción, y la que al final ha sido usada, es **hardware de PC antiguo
-pero funcional**. Todas son piezas recicladas de taller. En este caso, la
-configuración es la siguiente:
+The second option, and the one that was ultimately used, is **old but functional PC hardware
+**. All of the parts are recycled from the workshop. In this case, the
+configuration is as follows:
 
-- Intel Core i7 1ª gen
+- 1st generation Intel Core i7
 - 8 GB DDR3
-- Nvidia GeForce 7300 256MB (la única gráfica a mano con salida de vídeo AV)
-- Un disco duro de 500GB HDD
-- Tarjeta Wifi DLink
-- Fuente de alimentación chinesca de 300W
+- Nvidia GeForce 7300 256MB (the only graphics card available with AV video output)
+- A 500GB HDD hard drive
+- DLink WiFi card
+- 300W Chinese power supply
 
-Como televisor, hemos usado una Minerva MT 5511, de la que apenas existe
-información en Internet.
+For the TV, we used a Minerva MT 5511, about which there is hardly any
+information on the Internet.
 
-**¿Por que GameCathode?**
-   El nombre mezcla las dos cosas en las que se basa el proyecto **Game** por los juegos y **Cathode** 
-   por la teconologia que usan las teles de la epoca
+**Why GameCathode?**
+   The name combines the two things on which the project is based: **Game** for the games and **Cathode** 
+   for the technology used by TVs of that era
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenidos:
+   :caption: Contents:
 
    primero_pasos.md
    entrada_video.md
@@ -39,4 +39,5 @@ información en Internet.
    retoques.md 
    software.md 
    extras_y_materiales_usados.md
+
 
