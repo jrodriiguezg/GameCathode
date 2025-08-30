@@ -1,55 +1,47 @@
-Materials and tools used
+# The Workshop Arsenal: Tools and Materials
 
-Here I'm going to describe the materials and tools we used in the project, as well as purchase links.
+Every good "maker" knows that behind every project there's an arsenal of tools and a handful of key materials. Here we break down everything we used to bring the GameCathode to life, from the electronic components to the consumables that got us out of more than one tight spot.
 
-## Materials
+## Workshop Materials
 
-- **Electrical tape**, you've seen we use it for almost everything since it's cheap and lets us hold things easily. I buy the following pack that includes tapes of various colors [Link to product](https://amzn.to/4n7i74Y)
+These are the basic consumables and components that formed the backbone of the assembly.
 
-- **Isopropyl alcohol**, this was used for cleaning the inside of the TV, as it doesn't react with electronic components or leave residue. I have a 5L jug and refill a 1L bottle as I use it up [Link to product](https://amzn.to/4mIcNW5)
+- **Electrical Tape:** Our Swiss Army knife for fastening. We used it for almost everything: organizing cables, temporary fixes... An indispensable classic. This [multicolor pack](https://amzn.to/4n7i74Y) always comes in handy.
+- **Isopropyl Alcohol:** The elixir of cleaning for electronics. Essential for making the inside of the TV look new again without damaging any components. Buying a [large jug](https://amzn.to/4mIcNW5) and refilling a small bottle is the best strategy.
+- **Thermal Paste:** Although it was a small touch-up, changing the thermal paste is crucial for the longevity of the processor. We always use one that offers good value for money like [this one](https://amzn.to/3USUi4U).
+- **Heat Shrink Tubing:** The professional solution for extending the power supply cables. A [varied kit](https://amzn.to/3VoK8ZU) is pure gold in any electronics workshop.
+- **Double-Sided Tape:** For those fixes that need to be strong from the get-go. We used it for the initial power supply mounting. Be careful, because [it really sticks](https://amzn.to/41u1tnZ)!
+- **PAM8403 Amplifier:** The little giant that gave voice to the project. Bought on [AliExpress](https://es.aliexpress.com/item/1005006012531320.html) for a ridiculously low price, it's perfect for adding stereo sound to any invention.
+- **Instant Glue:** To put the speaker back in its place, a good [super glue](https://amzn.to/3I1Mg6V) is the solution. Although our preference is usually [Supergen](https://amzn.to/3JG8yf1) for its resistance.
+- **Solder and Flux:** No soldering without them. We recommend using [leaded solder](https://amzn.to/4p1bD9D) (with caution) because it's so easy to work with, and [paste flux](https://amzn.to/45HoiHi) for clean and durable joints.
+- **Velcro for Cables:** The final touch for decent cable management. Although you can't see it in all the photos, this [Velcro](https://amzn.to/3UT4z12) helped us organize everything.
+- **Paper Towels:** The unsung hero of the cleaning phase. No link needed, your local store is your best supplier!
 
-- **Paper towels**, used for cleaning. In my case, I buy them at the supermarket, so I'm not including a link as you can find them at a good price in any neighborhood store.
+## Key Tools
 
-- **Thermal paste**, although little was used, I'm adding it as a recommendation. I always use this one; it's good, cheap, and works well [Link to product](https://amzn.to/3USUi4U)
+These are the tools that did the heavy lifting and allowed us to adapt, cut, and connect.
 
-- **Heat shrink tubing**, used when we had to extend the power supply cable. I think it's one of the things I use most in my workshop. In my case, I buy boxes like the one in the link that include all shapes since the color doesn't usually matter to me [Link to product](https://amzn.to/3VoK8ZU)
+- **Dremel (or similar):** The star of the project. Without it, it would have been impossible to make the cuts in the case for the motherboard and connectors. A [multi-purpose tool](https://amzn.to/4n6cmEL) is one of the best investments for a workshop.
+- **SCART to AV Adapter:** The translator that connected two eras. We found it in a local store out of urgency, but it's identical to [this one on Amazon](https://amzn.to/41u5kRS). Its ability to be both an input or output makes it very versatile.
+- **Soldering Iron:** The heart of any electronics work. A good soldering iron like the [JBC](https://amzn.to/4lSGN07) is a tool for life.
+- **Brushes:** To remove the decades of dust accumulated inside the TV. An [economical set](https://amzn.to/45Fd464) is more than enough.
 
-- **Double-sided tape**, I buy it directly from my city's hardware store but I'm seeing it's cheaper on Amazon. Use it carefully, it sticks strongly [Link to product](https://amzn.to/41u1tnZ)
+## The Heart of the System: PC Components
 
-- **PAM8403 amplifier**, this was bought on AliExpress, because 10 units cost me 2 euros and it's good to have them for projects [Link to product](https://es.aliexpress.com/item/1005006012531320.html?spm=a2g0o.productlist.main.3.1d253525vLpV8I&algo_pvid=2435cee0-0af3-4374-936c-29a7f4b0727f&algo_exp_id=2435cee0-0af3-4374-936c-29a7f4b0727f-2&pdp_ext_f=%7B%22order%22%3A%22484%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21EUR%215.39%210.99%21%21%2143.69%218.00%21%40210391a017565829109768946edf08%2112000035329868684%21sea%21ES%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa90a8680%3Bm03_new_user%3A-29895%3BpisId%3A5000000174047507&curPageLogUid=QI1yTYA78EnF&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006012531320%7C_p_origin_prod%3A)
+All the PC components were recycled parts we had in the workshop, proving that you don't need the latest and greatest to create something incredible.
 
-- **Glue**, used to re-glue the speaker to the TV. I'd say any super glue would work. I used the following one because it's what I had on hand. I normally use Supergen but I had run out [Link to product](https://amzn.to/3I1Mg6V) | [Supergen](https://amzn.to/3JG8yf1)
+- **CPU:** Intel Core i7-950. A veteran that still has a lot to say. [More info on Wikipedia](https://es.wikipedia.org/wiki/Intel_Core_i7_(Nehalem)).
+- **Motherboard:** Asus P6T. The backbone that ties everything together. [Asus support](https://www.asus.com/es/supportonly/p6t/helpdesk_knowledge/).
+- **RAM:** 8 GB of DDR3 RAM. Enough to run the system and emulators smoothly. [A similar module](https://amzn.to/41shivs).
+- **Graphics Card:** Nvidia GeForce 7300 GT (256MB). The key to the project thanks to its composite video (AV) output. [Technical details](https://technical.city/es/video/GeForce-7300-GT).
+- **Storage:** A 500 GB 2.5" Seagate hard drive. An [old acquaintance](https://amzn.to/4fX97No) we had saved for an occasion like this.
+- **Power Supply and WiFi:** We used a generic power supply and an old D-Link WiFi card. For anyone looking for alternatives, here's an [affordable power supply](https://amzn.to/3VoYKIL) and a [current WiFi card](https://amzn.to/47fi42u).
 
-- **Solder and flux**, two basics for soldering. Here I'm going to recommend always using leaded solder. Although it's more expensive (and slightly more toxic), it's a thousand times better to solder with. For flux, I always try to use a paste and apply it with a spatula or cotton swab [Solder](https://amzn.to/4p1bD9D) | [Flux](https://amzn.to/45HoiHi)
+## An Alternative Route: The Raspberry Pi Path
 
-- **Cable Velcro**, this was used for cable organization even though you can't see it in the images. I bought it for the workshop and it ended up being great for the project [Link to product](https://amzn.to/3UT4z12)
+If we had to start from scratch or wanted a more compact solution, we would definitely explore this route.
 
-## Tools
-
-- **Dremel**, as you can see, it was used for a lot in the project. It's a tool I highly recommend having because it saves you from a thousand things due to how versatile it is. As for replacement tips, you can buy generic ones. I have a kit from Parkside (Lidl) [Link to product](https://amzn.to/4n6cmEL)
-
-- **Scart to AV adapter**, in my case we bought it at the Chinese store because we needed it urgently, but it cost us the same as the one I'm linking to on Amazon and it's the same one, go figure. It's great because it allows you to use it for both video input and output [Link to product](https://amzn.to/41u5kRS)
-
-- **Soldering iron**, this is an essential in every electronics project. I recommend the following JBC one because I've had it for several years and it has never given me any problems [Link to product](https://amzn.to/4lSGN07)
-
-- **Brush**, I bought them at a paint store, but for the price I paid for one brush, I realize I could have bought three [Link to product](https://amzn.to/45Fd464)
-
-## PC Components
-
-All the components were recycled parts I had in the workshop, but I'm listing their characteristics as well as a purchase / information link for them.
-
-- **Intel Core i7-950** [Wikipedia](https://es.wikipedia.org/wiki/Intel_Core_i7_(Nehalem))
-- **8Gb DDR3 RAM**, I don't know the brand of the module used, [Link to product](https://amzn.to/41shivs)
-- **Nvidia GeForce 7300GT 256MB** [Technical City](https://technical.city/es/video/GeForce-7300-GT)
-- **Seagate 500GB 2.5" HDD**, I had the hard drive in the workshop but this is the exact one [Link to product](https://amzn.to/4fX97No)
-- **Power supply and network card**, the network card is a pretty old Dlink Wi-Fi 4 but it's what we had, and the power supply is one I had in the workshop from the OEM ones that come with pre-built computers. I'm linking to two alternatives to the ones we used [Power supply](https://amzn.to/3VoYKIL) | [Network card](https://amzn.to/47fi42u)
-- **Asus P6T Motherboard** [Asus](https://www.asus.com/es/supportonly/p6t/helpdesk_knowledge/)
-
-## Recommendation
-I recommend using a Raspberry Pi and a hat with analog output like the RGBberry, although there are other options and models.
-[Raspberry Pi 4B](https://amzn.to/4n6wV3M) + [RGBerry](https://www.osaelectronics.com/product/rgberry-scart/)
-
-With this combination, not only do you save yourself the problems we had, but you can also install a system like Recalbox with everything ready to use.
+Using a [Raspberry Pi 4B](https://amzn.to/4n6wV3M) along with a "hat" with analog video output like the [RGBerry](https://www.osaelectronics.com/product/rgberry-scart/) would greatly simplify the project. You save yourself the challenges of space, power, and ventilation that we had, and you can install systems like Recalbox or RetroPie almost automatically.
 
 ## Software and programs used
 
