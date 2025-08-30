@@ -38,5 +38,5 @@ información en Internet.
    sistema_de_sonido_y_ventilacion.md
    retoques.md 
    software.md 
-   
+   extras_y_materiales_usados.md
 

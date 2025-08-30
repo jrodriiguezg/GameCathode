@@ -1,22 +1,25 @@
-# Primeros pasos
+# El Despertar del Gigante: Primeros Pasos y Cirugía Mayor
 
+Todo gran proyecto comienza con un primer paso. En nuestro caso, fue abrir el televisor y enfrentarnos a la realidad: un interior lleno de polvo y un espacio más limitado de lo que parecía.
 
-1. Nuestros primeros pasos han sido limpiar el interior del televisor ya que le hacia falta, esto lo hemos realizado con un pincel (al aire comprimido seria mejor opción pero no quería llenar todo de polvo), alcohol isopropilico, limpia cristales y papel 
+## Preparando el Lienzo: Limpieza a Fondo
 
-2. El siguiente reto fue integrar la placa base en la carcasa. A pesar de ser una tele grande, el **espacio interior es muy limitado** debido al gran tubo.
+Antes de cualquier cirugía, hay que esterilizar. Armados con pinceles, alcohol isopropílico y paciencia, le dimos al televisor una limpieza profunda, devolviéndole la dignidad y preparándolo para su nueva vida.
 
-   - **Ubicación:** Decidimos colocar la placa en la parte superior, aprovechando las **salidas de aire existentes** para atornillarla sin hacer agujeros nuevos.
-   - **El problema:** La forma curva de la carcasa impedía que la placa se asentara de forma recta.
-   - **La solución:** Usamos una **Dremel** para cortar una ranura en la parte trasera. Esto permitió que la placa quedara recta y que una parte asomara por detrás, dándonos acceso a los puertos.
-   - **Acceso a los puertos:** Hicimos un segundo corte para dejar los puertos (especialmente los USB) totalmente accesibles desde el exterior.
+## El Tetris Definitivo: Encajando la Placa Base
 
-   En el siguiente esquema se puede ver el resultado final de los cortes:
+El primer gran reto de ingeniería fue integrar el "cerebro" (la placa base) en el "cuerpo" (la carcasa). A pesar del tamaño del televisor, el enorme tubo de rayos catódicos ocupaba casi todo el espacio.
 
+-   **El Plan:** Colocar la placa en la parte superior, aprovechando las rejillas de ventilación para atornillarla.
+-   **El Problema:** La carcasa era curva, impidiendo que la placa se asentara de forma plana.
+-   **La Solución Quirúrgica:** ¡Dremel al rescate! Realizamos dos cortes estratégicos en la parte trasera. El primero para que la placa pudiera quedar recta y el segundo para dejar los puertos USB y de red accesibles desde el exterior.
+
+El siguiente esquema ilustra nuestra estrategia de corte.
 
 ```{image} /_static/img/2.png
 :width: 400px
 :align: center
-:alt: Esquema del montaje de la placa base en la carcasa del televisor.
+:alt: Esquema de los cortes necesarios en la carcasa para la placa base
 ```
 En esta siguiente imagen vemos los recortes realizados en la carcasa del televisor: 
 
@@ -45,5 +48,3 @@ La siguiente imagen es similar a la anterior pero con la carcasa tumbada donde s
 :width: 400px
 :align: center
 :alt: Placa en la carcasa volteada
-
-

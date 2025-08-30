@@ -1,14 +1,19 @@
-# Entrada de vídeo al televisor
-=============================
-Conectar un PC a un televisor de tubo fue uno de los primeros retos. La conectividad era el principal obstáculo.
+# La Primera Chispa: Llevando la Señal de Vídeo al CRT
 
-- **El conector:** El televisor solo disponía de una entrada **SCART (Euroconector)**.
-- **La solución:** Utilizamos un adaptador de SCART a AV (RCA) para poder enviar la señal de vídeo desde la tarjeta gráfica.
+Con la placa base ya instalada, nos enfrentamos a uno de los mayores retos del proyecto: ¿cómo conectar un PC moderno a un televisor de los 90? Era un auténtico choque de generaciones tecnológicas.
+
+## El Puente Entre Dos Mundos: El Adaptador
+
+El problema era claro:
+-   **El PC:** Ofrecía una salida de vídeo compuesto (AV).
+-   **El Televisor:** Solo tenía una entrada **SCART (Euroconector)**.
+
+La solución fue un adaptador que hiciera de traductor entre ambos mundos: un conversor de SCART a AV (RCA). Este pequeño dispositivo sería la clave para enviar la señal de vídeo desde la tarjeta gráfica directamente al corazón del tubo de rayos catódicos.
 
 ```{image} /_static/img/7.png
 :width: 400px
 :align: center
-:alt: Adaptador de SCART a AV
+:alt: Adaptador SCART a RCA (AV) para la señal de vídeo
 ```
 
 ### Ajustes en la carcasa

@@ -1,18 +1,18 @@
-# Fuente de alimentación
+# El Corazón Eléctrico: Domando la Fuente de Alimentación
 
-El siguiente gran desafío fue encontrar sitio para la fuente de alimentación (PSU). Aunque la tele es grande, no había espacio suficiente para alojar una fuente de PC completa en su interior.
+Con la placa y el vídeo resueltos, llegó el momento de dar energía a la bestia. El siguiente gran desafío fue encontrar un hogar para la fuente de alimentación (PSU). Aunque la tele es grande, el interior estaba ya lleno de cosas
 
-- **El problema:** La fuente de alimentación no cabía dentro de la carcasa.
-- **La solución:** ¡Montarla por fuera! Decidimos aprovechar el espacio libre en la parte trasera exterior del televisor.
-- **Pasando los cables:** Para conectar la fuente a la placa base, realizamos un nuevo agujero en la carcasa (marcado en rojo en la imagen) para pasar todo el cableado.
-- **Sujeción:** De forma **provisional**, la hemos fijado con cinta de doble cara.
+## Un Hogar Inesperado: Pensando "Fuera de la Caja"
 
-La siguiente imagen muestra la fuente ya montada en su ubicación final y el agujero para los cables.
+-   **El problema:** La fuente de alimentación ATX era un gigante que no cabía en el delicado ecosistema interior.
+-   **La solución:** ¡Pensar "fuera de la caja", literalmente! Decidimos montarla en el exterior, aprovechando el espacio libre en la parte trasera.
+-   **El portal:** Para conectar la fuente a la placa base, abrimos un nuevo portal en la carcasa para pasar todo el cableado.
+-   **Sujeción inicial:** Recurrimos a la siempre fiable cinta de doble cara para una fijación provisional. ¡Un clásico!
 
 ```{image} /_static/img/10.png
 :width: 400px
 :align: center
-:alt: Fuente de alimentacion ubicada
+:alt: Fuente de alimentación montada en la parte trasera exterior del televisor
 ```
 
 ```{image} /_static/img/11.png
